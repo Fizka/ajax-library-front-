@@ -1,0 +1,13 @@
+const FORM_NEW_USER = "panel-add-book";
+const FORM_REMOVE_USER = "panel-remove-book";
+const FORM_USER_LIST = "book-list";
+const FORM_CHOICE = "panel-one-book";
+const FORM_LOGIN = "logTab";
+const FORM_USER_CREDENTIALS = "login-panel";
+const USER_ID = "user-id";
+const USER_LOGIN = "login";
+const USER_PASSWORD ="password";
+const ERROR_MESSAGE = "error-message";
+const AUTHOR_INPUT = "author";
+const TITLE_INPUT = "title";
+const YEAR_INPUT = "year";
